@@ -14,5 +14,3 @@ As `tags <> ` não vão sair da minha cabeça tão cedo.
 No mais espero posteriormente conseguir atribuir e evoluir o site com as novas tecnologias, de branch em branch.
 
 Meus agradecimentos ao professor pela iniciativa e ao GitHub pela hospedagem.
-
-[Joinha] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fjoinhaautocenter%2F&psig=AOvVaw1N4BX9bUbjB9xw5sxQRXi9&ust=1598921764231000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjI88ydxOsCFQAAAAAdAAAAABAI).
